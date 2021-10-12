@@ -222,3 +222,5 @@ From NashvilleHousing..Nashville_housing
 
 ALTER TABLE NashvilleHousing..Nashville_housing
 DROP COLUMN SaleDate
+
+
